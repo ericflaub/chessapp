@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamof7c8b8be",
+  "tableName": "dynamof7c8b8be",
+  "partitionKey": {
+    "fieldName": "col1",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
